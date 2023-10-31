@@ -37,5 +37,15 @@
         "required": [],
         "idx": 4,
         "version": "15.0.0-dev"
+    },
+    "fivestarstours_dev": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "7f7c856680c6dcbcbd859ac90e850ecf5015d399",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 5,
+        "version": "0.0.1"
     }
 }

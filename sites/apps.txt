@@ -1,4 +1,5 @@
 frappe
 erpnext
 payments
+fivestarstours_dev
 hrms
